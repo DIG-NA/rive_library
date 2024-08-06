@@ -1,3 +1,6 @@
-# rive_library
+rive library : an App to catalog my (ever)increasing rive animations.
 
-A new Flutter project.
+
+
+https://github.com/user-attachments/assets/f32ab819-41e0-4624-907d-bcfccc6559ff
+
