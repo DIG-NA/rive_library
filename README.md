@@ -1,4 +1,5 @@
-rive library : an App to catalog my (ever)increasing rive animations.
+Rive library
+  an App to catalog my (ever)increasing rive animations.
 
 
 
